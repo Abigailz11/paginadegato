@@ -1,0 +1,44 @@
+/*Comentario */
+body{
+    background-color: #e4d6bf;
+    color: #30546a;
+    font-family: 'Signika', sans-serif;
+}
+h1{
+    color:#5d6188;
+
+}
+h2{
+    color:#5e636c;
+
+}
+h3{
+    color:#5d6188;
+
+}
+ol{
+    color:#5e636c;
+}
+ul{
+    color:#5e636c;
+}
+label{
+    color:#5e636c;
+}
+.img1{
+    width: 600px;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+    margin: 30px;
+}
+.img2{
+    width: 600px;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+    margin: 30px;
+}
+small{
+    color:#5e636c;
+}
